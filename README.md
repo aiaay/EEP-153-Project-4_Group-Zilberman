@@ -10,8 +10,8 @@ Target States in India: Tamil Nadu, West Bengal
 
 ## Remarks for Code Review:
 
-- Since we are doing a cross comparison between two states, we need to replicate our code for two states; the `EEP153_Project 4_Zilberman_Draft_Tamil_Nadu` currently only has the compiled and formatted code for Tamil Nadu. We have yet to combine code for  West Bengal
-- Code for West Bengal are in the `draft pieces` folder, and the folder also contains some code on deliverable C and policy cost 
+- Since we are doing a cross comparison between two states, we need to replicate our code for two states; we decided to keep it as two seperate notebooks for the sake of memory
+
 
 ## Download Instruction for Code Review:
 1. Navigate to the right on the home page of this repo; click into `Releases`
@@ -27,9 +27,6 @@ Target States in India: Tamil Nadu, West Bengal
   - `Data` folder (upload as a folder)
     - contain the `food_unit.txt`
 5. Upload our notebooks
-  - fully formatted for one state
-    -  `EEP153_Project 4_Zilberman_Draft_Tamil_Nadu.ipynb`
-  - yet to be combined and formated for the second state and policy cost
-    - `demand_system_code_bengal.ipynb`
-    - `NUTRITIONAL ADEQUACY Bengal.ipynb`
-    - `Bengal and Tamil Nadu Costs.ipynb`
+  - fully formatted for both states
+    -  `EEP153_Project 4_Final_Tamil_Nadu.ipynb`
+    -  `EEP153_Project 4_Zilberman_Bengal.ipynb`
